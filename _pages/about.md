@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Sha Liu"
+title: "Sha Liu 刘莎"
 author_profile: true
 redirect_from: 
   - /about/
