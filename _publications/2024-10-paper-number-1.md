@@ -7,7 +7,7 @@ excerpt:
 date: 2024-10
 venue: 'IEEE SMC 2024'
 slidesurl: 
-paperurl: 
+paperurl: 'https://shaliu-s.github.io/files/paper1.pdf'
 citation: 
 ---
 
