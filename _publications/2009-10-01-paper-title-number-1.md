@@ -1,7 +1,7 @@
 ---
 title: "Confidence Elicitation Improves Selective Generation in Black-Box Large Language Models"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: 
 excerpt: 
 date: 2024-10
