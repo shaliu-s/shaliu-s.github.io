@@ -11,9 +11,9 @@ Hello! I am currently a Ph.D. student at Computer Network Information Center, Un
 
 Publications
 ======
-*Confidence Elicitation Improves Selective Generation in Black-Box Large Language Models* (Accepted at IEEE SMC 2024)
-**Sha Liu**, Zhaojuan Yue and Jun Li
-[website](https://ieeexplore.ieee.org/document/10831438)
+*Confidence Elicitation Improves Selective Generation in Black-Box Large Language Models* (Accepted at IEEE SMC 2024)  
+**Sha Liu**, Zhaojuan Yue and Jun Li  
+[[website]](https://ieeexplore.ieee.org/document/10831438)
 
 
 
