@@ -2,7 +2,7 @@
 title: "Confidence Elicitation Improves Selective Generation in Black-Box Large Language Models"
 collection: publications
 category: conferences
-date: 2024-10
+date: 2024-10-1
 venue: 'IEEE SMC 2024'
 paperurl: 'https://shaliu-s.github.io/files/paper1.pdf'
 ---
